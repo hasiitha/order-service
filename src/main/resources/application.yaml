@@ -1,3 +1,7 @@
 spring:
   application:
     name: order-service
+  security:
+    user:
+      name: admin
+      password: admin123
